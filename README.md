@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm jahir</h1>
+<h1 align="center">Hi 👋, I'm Gerson</h1>
 <h3 align="center">me apasiona la programacion</h3>
 
 - 🔭 I’m currently working on **mi**
@@ -12,12 +12,6 @@
 - 👨‍💻 All of my projects are available at [proyectos](proyectos)
 
 - 📝 I regularly write articles on [la cultura](la cultura)
-
-- 💬 Ask me about **mecanica**
-
-- 📫 How to reach me **bglez595@gmail.com**
-
-- 📄 Know about my experiences [me cai de chico soy escalador de viejas](me cai de chico soy escalador de viejas)
 
 - ⚡ Fun fact **me gusta el higado encebollado**
 
